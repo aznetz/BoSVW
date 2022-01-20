@@ -4,6 +4,7 @@ Unsupervised Machine learning applied to digital histopathology data for Chronic
 publication: Unsupervised machine learning for identifying important visual features through Bag-of-Words using histopathology data from Chronic Kidney Disease (revision)
 
 ![plot](./sys/img/visualization_01.tif)
+
 plot Fig 1. (a) cortex part (b) visual color coded map (c) a zoomed image
 
 ### Deep learning segmentation
