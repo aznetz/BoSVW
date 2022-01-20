@@ -5,6 +5,8 @@ publication: Unsupervised machine learning for identifying important visual feat
 
 ![plot](./sys/img/visualization_01.tif)
 
+![plot](./sys/img/Main.jpg)
+
 plot Fig 1. (a) cortex part (b) visual color coded map (c) a zoomed image
 
 ### Deep learning segmentation
