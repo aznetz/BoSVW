@@ -14,6 +14,8 @@ Deep Lab V3+: Semantic Segmentation Deep Learning model
 Article: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation (Chen et al.)
 
 ### Stain Normalization
+![plot](./sys/img/Main.jpg)
+
 https://github.com/aznetz/Stain_Normalization
 
 ### Visualization
