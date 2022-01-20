@@ -1,5 +1,5 @@
 ## BoSVW
-Unsupervised Machine learning applied to digital histopathology data for Chronic Kidney Disease patients
+### Unsupervised Machine learning applied to digital histopathology data for Chronic Kidney Disease patients
 
 publication: Unsupervised machine learning for identifying important visual features through Bag-of-Words using histopathology data from Chronic Kidney Disease (revision)
 
